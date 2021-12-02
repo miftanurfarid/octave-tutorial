@@ -1,8 +1,8 @@
-Octave programming
+Pemrograman GNU Octave
 ==========================
 
-An introduction to GNU Octave for non-programmers based on SW carpentry's programming with MATLAB using inflammation data.
-Please see <https://bagustris.github.io/octave-tutorial> for a rendered version of this material,
+Sebuah pengantar terhadap pemrograman GNU Octave untuk seorang non-programmers berdasarkan SW carpentry's programming with MATLAB using inflammation data.
+Please see <https://miftanurfarid.github.io/octave-tutorial> for a rendered version of this material,
 [the lesson template documentation][lesson-example]
 for instructions on formatting, building, and submitting material,
 or run `make` in this directory for a list of helpful commands.

@@ -9,12 +9,12 @@ root: .
 > [GNU Octave](http://www.gnu.org/software/octave/) is a free and open-source alternative
 > to MATLAB which shares its syntax ([see more about compatibility](http://en.wikipedia.org/wiki/GNU_Octave#MATLAB_compatibility)). 
 
-We use GNU Octave because the following reasons:
-1. we have to use *something* for examples;
-2. it's well-documented;
-3. it has a large (and growing) user base among scientists in academia and industry; and
-4. it has a large library of packages available for performing diverse tasks.
-5. it is free and open source software driven by community
+Kita menggunakan GNU Octave karena beberapa alasan:
+1. kita perlu menggunakan suatu *tools* sebagai contoh`;
+2. suatu perangkat lunak yang gratis dan bersumber terbuka (*open-source*) yang dikelola oleh komunitas;
+3. memiliki dokumentasi yang baik;
+4. memiliki jumlah pengguna yang besar dan terus berkembang baik dari akademisi maupun praktisi di industri; dan
+5. ketersediaan "library" yang banyak;
 
 
 {: .callout}
