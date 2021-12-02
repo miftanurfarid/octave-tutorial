@@ -4,23 +4,10 @@ title: Setup
 permalink: /setup/
 ---
 
-You will need to install [GNU Octave][gnu-octave] to do this lesson.
+Anda perlu untuk meng-*install* [GNU Octave][gnu-octave] sebelum mengikuti perkuliahan ini.
 
-You will also need to download some data, which we will analyze using Octave:
+Anda juga perlu untuk men-*download* beberapa data yang nantinya akan dianalisis menggunakan GNU Octave:
 
-1.  Make a new folder in your `/home/username/` called `octave-novice-inflammation` by steps below (2 OR 3).
-2.  Download [octave-novice-inflammation-data.zip](https://github.com/bagustris/octave-tutorial/raw/gh-pages/data/octave-novice-inflammation-data.zip) and extract it (right click > extract here, on Ubuntu), OR:
-3.	Run the following commands on terminal,
-~~~
-$ wget https://github.com/bagustris/octave-tutorial/raw/gh-pages/data/octave-novice-inflammation-data.zip
-$ unzip octave-novice-inflammation-data.zip -d octave-novice-inflammation-data 
-~~~
-{: .bash}
-4.	You can access this folder from the Unix shell with:
-
-~~~
-cd /home/Username/octave-novice-inflammation-data
-~~~
-{: .bash}
+1.  Download [octave-novice-inflammation-data.zip](https://github.com/miftanurfarid/octave-tutorial/raw/gh-pages/data/octave-novice-inflammation-data.zip) kemudian *extract here*.
 
 [gnu-octave]: https://www.gnu.org/software/octave/
