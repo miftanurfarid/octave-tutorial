@@ -6,10 +6,10 @@
 carpentry: "swc"
 
 # Overall title for pages.
-title: "Octave Programming"
+title: "Pemrograman GNU Octave"
 
 # Contact email address.
-email: btatmaja@gmail.com
+email: miftanurfarid@lecturer.itk.ac.id
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
@@ -20,7 +20,7 @@ kind: "lesson"
 
 # Magic to make URLs resolve both locally and on GitHub.
 # See https://help.github.com/articles/repository-metadata-on-github-pages/.
-repository: bagustris/octave-tutorial
+repository: miftanurfarid/octave-tutorial
 
 # Sites.
 amy_site: "https://amy.software-carpentry.org/workshops"

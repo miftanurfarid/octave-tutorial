@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Setup
+title: Pengaturan
 permalink: /setup/
 ---
 
